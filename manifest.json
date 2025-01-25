@@ -1,0 +1,10 @@
+{
+	"id": "workout-gen",
+	"name": "Workout Gen",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "A workout generation and tracking tool.",
+	"author": "Sage Kosiorek",
+	"authorUrl": "https://zyx.polrel-witter.xyz/home",
+	"isDesktopOnly": false
+}
